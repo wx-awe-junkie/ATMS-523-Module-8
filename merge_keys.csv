@@ -1,0 +1,92 @@
+,FIPS code,SED location,Census location,Metro Area
+0,17013,"CALHOUN, ILLINOIS","Calhoun County, Illinois",St. Louis
+1,17061,"GREENE, ILLINOIS","Greene County, Missouri",St. Louis
+2,17083,"JERSEY, ILLINOIS","Jersey County, Illinois",St. Louis
+3,17119,"MADISON, ILLINOIS","Madison County, Missouri",St. Louis
+4,17133,"MONROE, ILLINOIS","Monroe County, Missouri",St. Louis
+5,17157,"RANDOLPH, ILLINOIS","Randolph County, Missouri",St. Louis
+6,17163,"ST. CLAIR, ILLINOIS","St Clair County, Illinois",St. Louis
+7,17189,"WASHINGTON, ILLINOIS","Washington County, Illinois",St. Louis
+8,20005,"ATCHISON, KANSAS","Atchison County, Kansas",Kansas City
+9,20045,"DOUGLAS, KANSAS","Douglas County, Kansas",Kansas City
+10,20059,"FRANKLIN, KANSAS","Franklin County, Kansas",Kansas City
+11,20087,"JEFFERSON, KANSAS","Jefferson County, Kansas",Kansas City
+12,20091,"JOHNSON, KANSAS","Johnson County, Kansas",Kansas City
+13,20103,"LEAVENWORTH, KANSAS","Leavenworth County, Kansas",Kansas City
+14,20121,"MIAMI, KANSAS","Miami County, Kansas",Kansas City
+15,20209,"WYANDOTTE, KANSAS","Wyandotte County, Kansas",Kansas City
+16,29037,"CASS, MISSOURI","Cass County, Missouri",Kansas City
+17,29047,"CLAY, MISSOURI","Clay County, Missouri",Kansas City
+18,29049,"CLINTON, MISSOURI","Clinton County, Missouri",Kansas City
+19,29055,"CRAWFORD, MISSOURI","Crawford County, Missouri",St. Louis
+20,29071,"FRANKLIN, MISSOURI","Franklin County, Missouri",St. Louis
+21,29073,"GASCONADE, MISSOURI","Gasconade County, Missouri",St. Louis
+22,29095,"JACKSON, MISSOURI","Jackson County, Missouri",Kansas City
+23,29099,"JEFFERSON, MISSOURI","Jefferson County, Missouri",St. Louis
+24,29101,"JOHNSON, MISSOURI","Johnson County, Missouri",Kansas City
+25,29107,"LAFAYETTE, MISSOURI","Lafayette County, Missouri",Kansas City
+26,29113,"LINCOLN, MISSOURI","Lincoln County, Missouri",St. Louis
+27,29139,"MONTGOMERY, MISSOURI","Montgomery County, Missouri",St. Louis
+28,29165,"PLATTE, MISSOURI","Platte County, Missouri",Kansas City
+29,29177,"RAY, MISSOURI","Ray County, Missouri",Kansas City
+30,29183,"ST. CHARLES, MISSOURI","St Charles County, Missouri",St. Louis
+31,29187,"ST. FRANCOIS, MISSOURI","St Francois County, Missouri",St. Louis
+32,29189,"ST. LOUIS, MISSOURI","St Louis County, Missouri",St. Louis
+33,29186,"STE. GENEVIEVE, MISSOURI","Ste Genevieve County, Missouri",St. Louis
+34,29219,"WARREN, MISSOURI","Warren County, Missouri",St. Louis
+35,29221,"WASHINGTON, MISSOURI","Washington County, Missouri",St. Louis
+36,40011,"BLAINE, OKLAHOMA","Blaine County, Oklahoma",OKC
+37,40015,"CADDO, OKLAHOMA","Caddo County, Oklahoma",OKC
+38,40017,"CANADIAN, OKLAHOMA","Canadian County, Oklahoma",OKC
+39,40021,"CHEROKEE, OKLAHOMA","Cherokee County, Oklahoma",Tulsa 
+40,40027,"CLEVELAND, OKLAHOMA","Cleveland County, Oklahoma",OKC
+41,40035,"CRAIG, OKLAHOMA","Craig County, Oklahoma",Tulsa 
+42,40037,"CREEK, OKLAHOMA","Creek County, Oklahoma",Tulsa 
+43,40049,"GARVIN, OKLAHOMA","Garvin County, Oklahoma",OKC
+44,40051,"GRADY, OKLAHOMA","Grady County, Oklahoma",OKC
+45,40073,"KINGFISHER, OKLAHOMA","Kingfisher County, Oklahoma",OKC
+46,40081,"LINCOLN, OKLAHOMA","Lincoln County, Oklahoma",OKC
+47,40083,"LOGAN, OKLAHOMA","Logan County, Oklahoma",OKC
+48,40097,"MAYES, OKLAHOMA","Mayes County, Oklahoma",Tulsa 
+49,40087,"MCCLAIN, OKLAHOMA","McClain County, Oklahoma",OKC
+50,40101,"MUSKOGEE, OKLAHOMA","Muskogee County, Oklahoma",Tulsa 
+51,40105,"NOWATA, OKLAHOMA","Nowata County, Oklahoma",Tulsa 
+52,40109,"OKLAHOMA, OKLAHOMA","Oklahoma County, Oklahoma",OKC
+53,40111,"OKMULGEE, OKLAHOMA","Okmulgee County, Oklahoma",Tulsa 
+54,40113,"OSAGE, OKLAHOMA","Osage County, Oklahoma",Tulsa 
+55,40117,"PAWNEE, OKLAHOMA","Pawnee County, Oklahoma",Tulsa 
+56,40123,"PONTOTOC, OKLAHOMA","Pontotoc County, Oklahoma",OKC
+57,40125,"POTTAWATOMIE, OKLAHOMA","Pottawatomie County, Oklahoma",OKC
+58,40131,"ROGERS, OKLAHOMA","Rogers County, Oklahoma",Tulsa 
+59,40133,"SEMINOLE, OKLAHOMA","Seminole County, Oklahoma",OKC
+60,40143,"TULSA, OKLAHOMA","Tulsa County, Oklahoma",Tulsa 
+61,40145,"WAGONER, OKLAHOMA","Wagoner County, Oklahoma",Tulsa 
+62,40147,"WASHINGTON, OKLAHOMA","Washington County, Oklahoma",Tulsa 
+63,48035,"BOSQUE, TEXAS","Bosque County, Texas",DFW
+64,48077,"CLAY, TEXAS","Clay County, Texas",DFW
+65,48085,"COLLIN, TEXAS","Collin County, Texas",DFW
+66,48097,"COOKE, TEXAS","Cooke County, Texas",DFW
+67,48113,"DALLAS, TEXAS","Dallas County, Texas",DFW
+68,48119,"DELTA, TEXAS","Delta County, Texas",DFW
+69,48121,"DENTON, TEXAS","Denton County, Texas",DFW
+70,48139,"ELLIS, TEXAS","Ellis County, Texas",DFW
+71,48143,"ERATH, TEXAS","Erath County, Texas",DFW
+72,48147,"FANNIN, TEXAS","Fannin County, Texas",DFW
+73,48181,"GRAYSON, TEXAS","Grayson County, Texas",DFW
+74,48213,"HENDERSON, TEXAS","Henderson County, Texas",DFW
+75,48217,"HILL, TEXAS","Hill County, Texas",DFW
+76,48221,"HOOD, TEXAS","Hood County, Texas",DFW
+77,48223,"HOPKINS, TEXAS","Hopkins County, Texas",DFW
+78,48231,"HUNT, TEXAS","Hunt County, Texas",DFW
+79,48237,"JACK, TEXAS","Jack County, Texas",DFW
+80,48251,"JOHNSON, TEXAS","Johnson County, Texas",DFW
+81,48257,"KAUFMAN, TEXAS","Kaufman County, Texas",DFW
+82,48337,"MONTAGUE, TEXAS","Montague County, Texas",DFW
+83,48349,"NAVARRO, TEXAS","Navarro County, Texas",DFW
+84,48363,"PALO PINTO, TEXAS","Palo Pinto County, Texas",DFW
+85,48367,"PARKER, TEXAS","Parker County, Texas",DFW
+86,48379,"RAINS, TEXAS","Rains County, Texas",DFW
+87,48397,"ROCKWALL, TEXAS","Rockwall County, Texas",DFW
+88,48439,"TARRANT, TEXAS","Tarrant County, Texas",DFW
+89,48467,"VAN ZANDT, TEXAS","Van Zandt County, Texas",DFW
+90,48497,"WISE, TEXAS","Wise County, Texas",DFW
